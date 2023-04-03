@@ -17,10 +17,3 @@ if (player1Number > player2Number) {
 } else {
     document.querySelector("h1").textContent = "It's a Draw."
 }
-
-keep looking for any other opportunities Mounika Kanumuri
-
-I have been working on trainings and other aspects. If you come across any opportunities
-talk to Kristina in how I can help?
-Ask Hope if she needs any help?
-is there any requirements from your account that I can help with?
